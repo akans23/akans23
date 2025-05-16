@@ -1,12 +1,8 @@
 ## Hi there 👋
-My name is Akanne Victor and am Trained Data Scientist in Python, SQL and MongoDB,
+My name is Akanne Victor from Nigeria, am Trained Data Scientist in Python, SQL and MongoDB,
 Well Experience both in Relational and Non-Relational Database Management System and Data Visualization!
-
-- 🔭 I’m currently working on No Program Currently.
-- 🌱 I’m currently learning Data Visualiaztion and Non-Relational Database System.
-- 👯 I’m looking to collaborate with Compaines Hiring Data Scientist.
-- 📫 How to reach me through github at akans23,
-    - linkedin on www.linkedin.com/in/victor-akanne-7ab251276
+- you can check me on inkedin on www.linkedin.com/in/victor-akanne-7ab251276.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akans23)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
