@@ -1,9 +1,12 @@
 ## Hi there 👋
+My name is Akanne Victor and am Trained Data Scientist in Python, SQL and MongoDB,
+Well Experience both in Relational and Non-Relational Database Management System and Data Visualization!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on No Program Currently.
+- 🌱 I’m currently learning Data Visualiaztion and Non-Relational Database System.
+- 👯 I’m looking to collaborate with Compaines Hiring Data Scientist.
+- 📫 How to reach me through github at akans23,
+    - linkedin on www.linkedin.com/invictor-akanne-7ab251276
 
 
 <!--
