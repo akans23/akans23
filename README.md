@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **with a fellow Data Scientist**
 
-- 📫 How to reach me **victorakanne@gmail.com**
+- 📫 How to reach me **akannevictor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
