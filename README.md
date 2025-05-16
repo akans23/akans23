@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Akanne Victor from Nigeria, am Trained Data Scientist both in Relational and Non-Relational Database Management System and Data Visualization!
+My name is Akanne Victor from Nigeria, am a Trained Data Scientist both in Relational and Non-Relational Database Management System and Data Visualization.
 - you can check me on inkedin on www.linkedin.com/in/victor-akanne-7ab251276.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akans23)](https://github.com/anuraghazra/github-readme-stats)
