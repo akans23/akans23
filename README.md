@@ -1,6 +1,11 @@
-### Hi there 👋, akans23
-#### Data Scientist.
+# Hi there 👋, akans23
+
+## Data Scientist.
 My name is Akanne Victor from Nigeria, am a Trained Data Scientist both in Relational and Non-Relational Database Management System and Data Visualization.
+
+### Skills and Experience.
+- 💻 PYTHON JUPYTER
+- 🛢 SQL/ MONGODB 
 
 Skills: PYTHON JUPYTER / SQL/ MONGODB
 
