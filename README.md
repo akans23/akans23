@@ -6,7 +6,7 @@ Well Experience both in Relational and Non-Relational Database Management System
 - 🌱 I’m currently learning Data Visualiaztion and Non-Relational Database System.
 - 👯 I’m looking to collaborate with Compaines Hiring Data Scientist.
 - 📫 How to reach me through github at akans23,
-    - linkedin on www.linkedin.com/invictor-akanne-7ab251276
+    - linkedin on www.linkedin.com/in/victor-akanne-7ab251276
 
 
 <!--
